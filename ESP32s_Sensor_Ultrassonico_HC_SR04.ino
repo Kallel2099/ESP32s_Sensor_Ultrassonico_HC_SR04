@@ -1,7 +1,7 @@
 /*********************************************************************************************************
 
-                                Projeto Medidor de Distância Ultrasonico 
-  Neste projeto vamos usar um Modulo Ultrasonico HC-SR04 conectado a um ESP32s e um display OLED SSD1306 
+                                Projeto Medidor de Distância Ultrassonico 
+  Neste projeto vamos usar um Modulo Ultrassonico HC-SR04 conectado a um ESP32s e um display OLED SSD1306 
 
 *********************************************************************************************************/
 // Carrega as bibliotecas do projeto
